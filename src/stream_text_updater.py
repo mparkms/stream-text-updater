@@ -154,14 +154,10 @@ class App:
 
 	def processMatches(self, matches, players):
 
-		#for match in matches:
-		#	print(match["identifier"])
 		filtered = filter(lambda x: x["scores-csv"] != None, matches) 	#filter out all matches w/o scores
 
 		filteredW = filter(lambda x: x["round"] > 0, filtered)			#winners has round > 0
 		filteredL = filter(lambda x: x["round"] < 0, filtered)			#losers has round < 0
-
-		#print(filteredW)
 
 		try:
 			return self.printMatches(filteredW, filteredL, players)
