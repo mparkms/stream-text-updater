@@ -1,5 +1,6 @@
 # Stream Text Updater
 Written by Mike Park under GNU GPL v3 license
+
 Made as a very rough learning exercise
 
 ## Dependencies
@@ -15,4 +16,5 @@ Made as a very rough learning exercise
 
 ## Contact
 reddit.com/u/kaabistar
+
 @kaabistar
