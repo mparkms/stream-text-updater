@@ -9,7 +9,7 @@ Made as a very rough learning exercise
 * PyChallonge
 
 ## Download
-[v0.1](https://mega.co.nz/#!55twkZYC!CVQ2JaTS0thILURV4L5lTdGRjUJuwc3xaisa2T1gGCE)
+[v0.1](http://www.mediafire.com/file/7zni2ncz9xu8aqv/stream_text_updater.zip)
 
 ## How to use
 [See Reddit post](http://www.reddit.com/r/smashbros/comments/2vbtww/i_made_stream_text_updater_a_tool_that_helps/)
